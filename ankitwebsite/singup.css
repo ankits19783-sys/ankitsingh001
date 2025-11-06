@@ -1,0 +1,44 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+}
+.one {
+    text-align: center;
+
+}
+.two {
+    text-align: center;
+}
+body {
+    background-color:#c6c1d3;
+}
+.three {
+    text-align: center;
+    gap: 2px;
+}
+.four {
+    text-align: center;
+}
+.five {
+    text-align: center;
+}
+.six {
+    text-align: center;
+}
+p {
+    text-align:center;
+}
+.seven {
+    text-align: center;
+}
+.eight {
+    text-align: center;
+}
+button {
+    background-color: #99e699;
+    font-weight: bolder;
+
+}
+.nine {
+    text-align: center;
+}

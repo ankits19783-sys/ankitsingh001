@@ -1,0 +1,18 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center
+}
+button {
+    background-color: #a4bff1;
+    color: #297505;
+    /* border: 2px solid #0000ff; */
+}
+body {
+    background-color:rgb(173, 248, 204);
+    margin: 0;
+}
+.three {
+    font-family:Arial, Helvetica, sans-serif;
+    height: 10px;
+    
+}
